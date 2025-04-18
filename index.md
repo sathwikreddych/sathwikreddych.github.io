@@ -8,6 +8,7 @@ title: Home
 **Business Analyst** who turns data into decisions and streamlines processes.
 
 [📄 Download my résumé](/resume.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/sathwik-reddy7)
+[🔍 About Me](/about/)
 
 ---
 
