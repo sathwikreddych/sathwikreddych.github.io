@@ -1,0 +1,18 @@
+# Site settings
+title: "Sathwik Reddy | Business Analyst Portfolio"
+theme: jekyll-theme-minimal
+
+# Optional: show your photo/logo in the header
+# logo: /assets/images/photo.jpg
+
+# Navigation links (order matters)
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+
+# Optional: set Markdown processor
+markdown: kramdown
