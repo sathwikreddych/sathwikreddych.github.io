@@ -44,7 +44,7 @@ I’ve also worked at **CYIENT (Pratt & Whitney)** and **Lince Soft Solutions**,
 
 | Data & Analytics | Process & Agile | Systems |
 |------------------|------------------|---------|
-| SQL, Python, Power BI, Tableau | Visio, Lucidchart, UAT, Agile (Scrum & Kanban) | SAP, SharePoint, CRM, Power Query |
+| SQL, Python, Power BI, Tableau | Visio, UAT, Agile (Scrum & Kanban) | SAP, SharePoint, CRM, Power Query |
 
 > Also certified in Power BI (PL-300), Agile PM, and SQL fundamentals.
 
