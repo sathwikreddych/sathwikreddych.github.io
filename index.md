@@ -34,7 +34,7 @@ I’ve also worked at **CYIENT (Pratt & Whitney)** and **Lince Soft Solutions**,
 
 > This dashboard provides real-time insights into product sales, inventory levels, and margin behavior.
 
-![Sales Dashboard](/sales dashboard.png)
+![Sales Dashboard](/sales-dashboard.png)
 
 *Note: This is a static image of a live dashboard. For an interactive walkthrough, feel free to [contact me](mailto:chelmalla.sathwik@gmail.com).*
 
