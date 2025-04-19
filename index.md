@@ -27,16 +27,33 @@ I’ve also worked at **CYIENT (Pratt & Whitney)** and **Lince Soft Solutions**,
 ## 🚀 Projects That Matter
 
 ### 📊 Sales Performance Dashboard (Power BI)
-**Challenge:** Leadership lacked real-time product visibility  
-**Impact:** Built DAX-powered visuals that spotlighted top-sellers and cut manual reporting
+
+**Goal:** Build a dynamic, self-service dashboard to showcase retail sales analysis using real-world-like data  
+**Action:** Developed an interactive Power BI report using DAX, connected to historical sales datasets  
+**Impact:** Highlighted high-performing products, tracked profitability trends, and enabled faster, data-driven decision-making for retail analysis
+
+> This dashboard provides real-time insights into product sales, inventory levels, and margin behavior.
+
+![Sales Dashboard](/sales dashboard.png)
+
+*Note: This is a static image of a live dashboard. For an interactive walkthrough, feel free to [contact me](mailto:chelmalla.sathwik@gmail.com).*
+
+---
 
 ### 🎓 Academic Performance SQL Analysis
-**Challenge:** Admins needed student-level insight across terms  
-**Impact:** Built a PostgreSQL schema and wrote advanced SQL to uncover trends
+
+**Goal:** Explore student performance trends through SQL analytics for a portfolio demonstration  
+**Action:** Designed a PostgreSQL database and generated synthetic student data  
+**Impact:** Wrote advanced queries to surface pass/fail trends, high performers, and demographic insights
+
+---
 
 ### ✈️ Aircraft Starter System Research
-**Challenge:** Compare starter and battery tech for engine systems  
-**Impact:** Delivered structured documentation and performance visuals for engineering use
+
+**Challenge:** Evaluate and compare various starter and battery systems used in aircraft engines  
+**Action:** Researched technical specs and organized comparative analysis based on performance and reliability  
+**Impact:** Produced structured documentation and visuals supporting engineering decision-making
+
 
 ---
 
