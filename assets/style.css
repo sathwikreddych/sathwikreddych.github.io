@@ -1,0 +1,10 @@
+body {
+  background-color: #f4f4f9; /* Light gray-blue background */
+}
+
+section {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
