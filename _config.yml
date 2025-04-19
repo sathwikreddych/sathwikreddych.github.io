@@ -1,5 +1,8 @@
 # Site settings
 title: "Sathwik Reddy | Business Analyst Portfolio"
+sass:
+  sass_dir: assets/css
+
 theme: jekyll-theme-slate
 
 # Optional: show your photo/logo in the header
