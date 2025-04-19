@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sathwik Reddy | Business Analyst Portfolio
+title: Home
 ---
 
 # 👋 Hi, I'm Sathwik Reddy
